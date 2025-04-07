@@ -96,8 +96,5 @@ Develop a robust regression model to estimate the popularity score of Spotify so
 ## Results and Future Work
 - **Key Findings:**  
   Features such as energy, danceability, loudness, and genre indicators are significant predictors of track popularity.
-- **Next Steps:**  
-  - Hyperparameter tuning and model optimization  
-  - Explore deployment strategies for real-time predictions (if applicable)  
-  - Further feature engineering to enhance model performance
+
 
